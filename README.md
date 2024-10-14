@@ -22,7 +22,9 @@ Este repositório contém os exercícios do **Desafio Pytest** do **Bootcamp Bac
 
 4. **Exercícios do Curso 3: Teste Avançado com Pytest**  
    - Karine Yasmin dos Santos Ribeiro
-     
+
+5. **Revisão do Projeto**
+   - Larissa Vital Caetano Pereira
 ---
 
 Todas as integrantes contribuíram para a resolução dos desafios e a criação deste repositório.
